@@ -57,5 +57,6 @@ Import data base file you can find in root directory - reservation.sql
 
 To run 
 
-For reservation - http:/project-path/reservation
-For Setting - http:/project-path/setting
+For reservation - http://project-path/reservation
+
+For Setting - http://project-path/setting
