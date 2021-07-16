@@ -49,3 +49,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+## Project Detail
+
+Import data base file you can find in root directory - reservation.sql
+
+To run 
+
+For reservation - http:/project-path/reservation
+For Setting - http:/project-path/setting
